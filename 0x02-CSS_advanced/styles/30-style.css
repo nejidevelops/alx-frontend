@@ -691,9 +691,9 @@ ul.row{
 .card-work .card-title a::after{
     position: absolute;
     top: 0;
-    right: inherit;
-    left: inherit;
-    bottom: inherit;
+    right: 0;
+    left: 0;
+    bottom: 0;
     content: "";
 }
 
