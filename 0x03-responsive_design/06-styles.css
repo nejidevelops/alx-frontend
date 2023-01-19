@@ -1010,12 +1010,3 @@
         flex-basis: 79%;
     }
   }
-
-  
-
-Target the header-logo class
-Property: flex-basis, Value: 70%
-Create a new media query with min-width: 481px and max-width: 767px
-
-Target the header-logo class
-Property: flex-basis, Value: 79%
